@@ -43145,13 +43145,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 106px;
+  min-height: 94px;
 }
 
 .u-header .u-image-1 {
   width: 139px;
   height: 85px;
-  margin: 0 auto 0 0;
+  margin: 11px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -43193,10 +43193,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
     min-height: 107px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: 20px;
   }
 }
 

@@ -16,6 +16,12 @@
 
 .u-section-1 .u-text-1 {
   margin: 40px 0 25px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    width: auto;
+  }
 } .u-section-2 {
   min-height: 318px;
 }

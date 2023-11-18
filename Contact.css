@@ -4,9 +4,15 @@
 
 .u-section-1 .u-image-1 {
   height: 275px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 25px;
+  margin-bottom: 15px;
   width: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    width: auto;
+  }
 } .u-section-2 {
   background-image: none;
 }

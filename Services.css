@@ -8,14 +8,14 @@
 
 .u-section-1 .u-image-1 {
   height: 275px;
-  margin-top: 20px;
+  margin-top: 25px;
   margin-bottom: 0;
   width: 100%;
 }
 
 .u-section-1 .u-text-1 {
   font-size: 1.25rem;
-  margin: 63px 0 0;
+  margin: 58px 0 0;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -163,6 +163,10 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 1467px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: auto;
   }
 
   .u-section-1 .u-text-1 {
