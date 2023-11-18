@@ -2,6 +2,10 @@
     background-color: #1d5d9b;
     color:#ffffff;
   }
+  .highlight{
+    color:#1d5d9b;
+    font-weight: 700;
+  }
 
 /*  @media (max-width: 768px) {
     .headborder {
