@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1047px;
+  min-height: 1178px;
 }
 
 .u-section-1 .u-image-1 {
@@ -17,7 +17,7 @@
   min-height: 480px;
   width: 763px;
   height: auto;
-  margin: 8px auto 60px;
+  margin: 8px auto 0;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -177,6 +177,12 @@
   left: auto;
   position: absolute;
   right: 0;
+}
+
+.u-section-1 .u-image-2 {
+  height: 300px;
+  margin-top: 30px;
+  margin-bottom: 60px;
 }
 
 @media (max-width: 1199px) {
